@@ -1,5 +1,8 @@
 # Welcome to Git! 
 
+![Welcome](https://thumbs.gfycat.com/AcidicLightDipper-size_restricted.gif)
+
+
 ## You
 
 So you're a scientist. You do a bit of coding, produce some plots, fit some curves, run some sims etc. Your scripts evolve and it's a little hard to keep track of which scripts you used to plot which raw data etc. Plus, how do you connect reference the exact script you used in your wet-lab book? Well fear no longer.
@@ -21,6 +24,9 @@ BUT! If your hearts desire, feel free to work with your own scripts what ever la
 
 Git is pretty damn cool!
 
+![Wow](https://thumbs.gfycat.com/AbsoluteSecondDinosaur-size_restricted.gif)
+
+
 ## Mission Statement:
 
 The aim of this tutorial series is **not** to turn you into a Git Jedi.
@@ -32,6 +38,8 @@ One of *I tried it and it was a bit complicated, I wasn't quite sure what I had 
 To *To be honest, I'm not sure how I could work without it.. *
 
 And provide you with the **foundation** to go off and learn more yourself if you wish.
+
+![Map](https://thumbs.gfycat.com/AntiqueSmoggyFugu-size_restricted.gif)
 
 ## Me
 
