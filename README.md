@@ -59,7 +59,7 @@ So without further ado, let's go!
 ## Tutorials
 
 - [ ] ![Tutorial 1: Why and how.](https://github.com/aperkins19/Git_Guide_for_Scientists/blob/main/git_tutorial_1.md)
-- [ ] ![Tutorial 2: Installation and Setup.](https://github.com/aperkins19/Git_Guide_for_Scientists/git_tutorial_2.md)
-- [ ] ![Tutorial 3: Simple Example Project - Plotting Timeseries Data.](https://github.com/aperkins19/Git_Guide_for_Scientists/git_tutorial_3.md)
-- [ ] ![Tutorial 4: More Advanced Use.](https://github.com/aperkins19/Git_Guide_for_Scientists/git_tutorial_4.md)
+- [ ] ![Tutorial 2: Installation and Setup.](https://github.com/aperkins19/Git_Guide_for_Scientists/blob/main/git_tutorial_2.md)
+- [ ] ![Tutorial 3: Simple Example Project - Plotting Timeseries Data.](https://github.com/aperkins19/Git_Guide_for_Scientists/blob/main/git_tutorial_3.md)
+- [ ] ![Tutorial 4: More Advanced Use.](https://github.com/aperkins19/Git_Guide_for_Scientists/blob/main/git_tutorial_4.md)
 
