@@ -1,3 +1,41 @@
+# Intro
+
+In this tutorial we're going to work through a 'real life' example using git.
+
+We'll be working with an example analysis workflow. My research is on cell free protein expression so I've provided some Fluoresence Timeseries data and plotting script in Python. The actual analysis is immaterial, if you wanted you could do the tutorial by editing a Microsoft Word Document.
+
+To get a better understanding of how git might actually fit into a scientific workflow, we're going to:
+
+* Download the script & data from Github to our computer
+* Run the script to see what happens
+* Edit that script
+* Record the changes
+* Upload the edited script back up to Github
+
+And doing so learn not just how to use git but also some best practices to make the process as transparent and easy as possible.
+
+# 1. Download the Materials
+
+The first step is to download the materials from my remote Github repository.
+
+To do this we use a git command called
+`git clone`
+
+
+
+1. Create a new folder on your desktop and call it 'Example Git Timeseries analysis' or something.
+
+# Git Clone
+
+
+
+
+
+
+
+
+
+
 Git Commands
 
 Setting your config MetaData (collaborator's know  you made the changes and how to contact you.)
@@ -18,7 +56,7 @@ Initalise a git repo
 
 `git init`
 
-Look at your changes. 
+Look at your changes.
 
 `git status`
 
@@ -55,14 +93,14 @@ https://www.sourcetreeapp.com/
 
 https://www.hostinger.com/tutorials/best-git-gui-clients/
 
- 
- 
+
+
  ################################################
- 
+
  SOLUTION FOR AUTHENTICATING YOUR GIT ACCESS USING WINDOWS.
- 
+
  https://www.youtube.com/watch?v=JCcrdW4Llm0
- 
+
 
 
 
@@ -70,25 +108,3 @@ https://www.hostinger.com/tutorials/best-git-gui-clients/
 
 
 # Gittyfying a project folder i.e. initalising a local git repository
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
