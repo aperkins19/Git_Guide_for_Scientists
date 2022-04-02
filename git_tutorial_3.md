@@ -55,14 +55,6 @@ https://www.sourcetreeapp.com/
 
 https://www.hostinger.com/tutorials/best-git-gui-clients/
 
-##########################################
-
-How to fix github permissions and set up access:
- https://docs.github.com/en/get-started/quickstart/set-up-git
- 
- 
- Links to more resources on git and github:
- https://carpentries-incubator.github.io/good-enough-practices/06-track_changes/index.html#some-git-resources
  
  
  ################################################
@@ -71,23 +63,32 @@ How to fix github permissions and set up access:
  
  https://www.youtube.com/watch?v=JCcrdW4Llm0
  
- ###############################################
- 
- 
- 
- ## Evaluation day 2 (git with hasty improvisation)
-
-Please list 1 thing you liked or found particularly useful
--I learnt what git is and how you can link up to git hub
--Learned about what git and github are using for
--learnt about github which I hope could be helpful .
--
--
 
 
 
-Please list another think you found less useful, or that could be improved
--A follow up lesson would be useful 
--
--
--
+
+
+
+# Gittyfying a project folder i.e. initalising a local git repository
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
