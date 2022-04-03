@@ -39,9 +39,31 @@ So to do this:
 
 ## Git Clone
 
+Now that you have a folder to put your data and analysis scripts now it's time to grab the git repo and put it inside.
 
+Ensuring that you're still navigated to the correct folder on your CLI run the `git clone` command. Now for this example we're going to grab a placeholder repo that I've made just for this example but you can use the same command by using any URL from Github that you like.
 
+`git clone https://github.com/aperkins19/git_3_placeholder_project`
 
+If it all goes well then you should see something line this:
+
+![clone](https://github.com/aperkins19/Git_Guide_for_Scientists/blob/main/Assets/git3/clone_Example.png)
+
+## Investigate our set up
+
+So now that have cloned the repo, let's have a look around and see what's happened.
+
+* Have a look at that folder in file explorer, you should see that all the files have been copied.
+* Now using your CLI:
+
+`git remote -v`
+
+This allows us to see how the remote for the local git repo (which, as you will recall, was created by the git clone command) are wired up.
+i.e. Which Github repositories it is configured to push and pull to. *n.b. You will likely never need them to be different.
+
+Git Clone should have set them up for you and you should see that both point to:
+
+`https://github.com/aperkins19/git_3_placeholder_project`
 
 
 
