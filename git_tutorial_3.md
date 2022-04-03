@@ -21,11 +21,18 @@ The first step is to download the materials from my remote Github repository.
 To do this we use a git command called
 `git clone`
 
+How this command works is that it pulls the git repository from the given Github URL *& What else exactly?*, sets up remote?
 
+So to do this:
 
-1. Create a new folder on your desktop and call it 'Example Git Timeseries analysis' or something.
+1. Create a new folder on your desktop and call it 'Example Git Timeseries analysis' or something. This will be the project folder into which you want to clone the git repo.
 
-# Git Clone
+2. Next Open a Command Line Terminal (or Terminal if you're on Mac or Linux), and navigate to that newly created project folder.
+
+  I have a tip for doing this which you may find useful:
+    * Open the project folder in File Explorer/Finder and 'Copy Address as text' (*See Image*), then paste that address into the Command Line **within double quotes**. This will allow you to jump to the target directory in one step rather than tedious: `cd documents`, `cd labbook`, `cd myexperiments` navigation.
+
+## Git Clone
 
 
 
